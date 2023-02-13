@@ -4,4 +4,6 @@
 
 
 ### Visual Representation
-![MeteorStrikes](https://drive.google.com/file/d/1eZcmiKGkgr2_El_a0HmZihhfpM9qsA57/view?usp=sharing)
+![MeteorStrikes](https://drive.google.com/drive/u/1/folders/1yPJF0HILsF8kg1RHuB8806nITAxnO9ut)
+<img src="https://drive.google.com/drive/u/1/folders/1yPJF0HILsF8kg1RHuB8806nITAxnO9ut" alt="MeteorStrikes" width="300" height="150">
+
